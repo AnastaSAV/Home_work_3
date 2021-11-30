@@ -5,4 +5,4 @@ secondNumber = Number(secondNumber);
 // alert(Number(firstNumber) + Number(secondNumber)); //Работает
 // alert(parseInt(firstNumber + secondNumber)); // И так работает
 let result = firstNumber + secondNumber;
-alert(`Result is ${result}`) // Этот вариант кажется более правильным
+alert(`${firstNumber} + ${secondNumber} = ${result}`) // Этот вариант кажется более правильным
